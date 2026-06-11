@@ -1,0 +1,14 @@
+# binaries
+leakr.exe
+
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# IDE
+.vs/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
